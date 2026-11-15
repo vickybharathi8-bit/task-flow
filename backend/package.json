@@ -1,0 +1,13 @@
+{
+  "name": "taskboard-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express API for the CloudFront and Ubuntu deployment lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

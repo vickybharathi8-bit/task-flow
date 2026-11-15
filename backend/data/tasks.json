@@ -1,0 +1,23 @@
+[
+  {
+    "id": "TASK-10001",
+    "title": "Verify API health endpoint",
+    "owner": "DevOps",
+    "status": "Open",
+    "createdAt": "2026-11-15T08:00:00.000Z"
+  },
+  {
+    "id": "TASK-10002",
+    "title": "Upload frontend build to S3",
+    "owner": "Frontend",
+    "status": "In Progress",
+    "createdAt": "2026-11-15T08:05:00.000Z"
+  },
+  {
+    "id": "TASK-10003",
+    "title": "Configure CloudFront API behaviour",
+    "owner": "Platform",
+    "status": "Completed",
+    "createdAt": "2026-11-15T08:10:00.000Z"
+  }
+]
