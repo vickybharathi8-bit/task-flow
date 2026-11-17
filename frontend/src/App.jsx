@@ -91,7 +91,7 @@ export default function App() {
         <div>
           <div className="eyebrow">FULL-STACK DEPLOYMENT PRACTICE</div>
           <h1>TaskBoard</h1>
-          <p className="subtitle">A small application running across S3, CloudFront and Ubuntu.</p>
+          <p className="subtitle">A small application running across S3, CloudFront and Ubuntu. Deployed through Jenkins!</p>
         </div>
         <div className={`connection ${online ? "online" : "offline"}`}>
           <span className="dot" />
