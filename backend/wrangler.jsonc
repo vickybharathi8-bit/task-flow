@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "task-flow-api",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-27",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "task-flow-db",
+      "database_id": "d5a1f942-3ead-4b30-b2eb-b222d178ba2a"
+    }
+  ]
+}
